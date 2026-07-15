@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Tenure-track Assistant Professor**, Faculty of Environmental Life and Natural Sciences, **Okayama University** *(Apr 2026 – Present)*
-- 🏛️ **Affiliate Researcher**, Graduate School of Frontier Sciences, **The University of Tokyo** *(May 2026 – Present)*
-- 🐻 **Visiting Researcher**, Computer Systems Laboratory, **Cornell University** *(Oct 2024 – Nov 2024)*
-- 🔬 **Postdoctoral Fellow**, Department of Precision Engineering, **The University of Tokyo** *(Apr 2023 – Mar 2026)*
-- 🎓 **Ph.D.** (2023) & **M.S.** (2020), **Okayama University**
+- 🎓 **Tenure-track Assistant Professor**, Faculty of Environmental Life and Natural Sciences, **Okayama University**, Japan *(Apr 2026 – Present)*
+- 🏛️ **Affiliate Researcher**, Graduate School of Frontier Sciences, **The University of Tokyo**, Japan *(May 2026 – Present)*
+- 🐻 **Visiting Researcher**, Computer Systems Laboratory, **Cornell University**, USA *(Oct 2024 – Nov 2024)*
+- 🔬 **Postdoctoral Fellow**, Department of Precision Engineering, **The University of Tokyo**, Japan *(Apr 2023 – Mar 2026)*
+- 🎓 **Ph.D.** (2023) & **M.S.** (2020), **Okayama University**, Japan
 - 🤖 **Research Areas**: 
   - 🐍 **Snake Robotics & Deep Reinforcement Learning**
   - 🏗️ **Multi-Robot Systems & Construction Robotics**
